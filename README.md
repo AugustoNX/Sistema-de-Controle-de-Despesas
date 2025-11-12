@@ -69,18 +69,18 @@ O objetivo é entregar uma versão funcional que já permita inserir, listar e g
 
 ## 4. Estrutura Inicial de Pastas
 /src
- ├── main/
- │   ├── MenuPrincipal.java
- │   ├── Usuario.java
- │   ├── Despesa.java
- │   ├── TipoDespesa.java
- │   ├── Pagamento.java
- │   └── interfaces/
- │       └── Pagavel.java
+├── main/
+├── MenuPrincipal.java
+├── Usuario.java
+├── Despesa.java
+├── TipoDespesa.java
+├── Pagamento.java
+    └── interfaces/
+    └── Pagavel.java
  ├── data/
- │   ├── usuarios.txt
- │   ├── despesas.txt
- │   └── tipos.txt
+     ├── usuarios.txt
+     ├── despesas.txt
+     └── tipos.txt
 /docs
  ├── README.md
  └── CHANGELOG.md
