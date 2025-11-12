@@ -49,7 +49,7 @@ Menu em execução com System.out.println() (simulação de fluxo principal).
 
 Resultado esperado: validação da persistência de dados e da execução dos métodos básicos de CRUD.
 
-3. Projeto do MVP
+##3. Projeto do MVP
 
 O MVP (Produto Mínimo Viável) será composto por:
 
@@ -67,7 +67,7 @@ Estrutura POO com herança e polimorfismo básico.
 
 O objetivo é entregar uma versão funcional que já permita inserir, listar e gerenciar dados básicos, validando o modelo lógico do sistema e a arquitetura proposta.
 
-4. Estrutura Inicial de Pastas
+## 4. Estrutura Inicial de Pastas
 /src
  ├── main/
  │   ├── MenuPrincipal.java
